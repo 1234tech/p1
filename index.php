@@ -1,6 +1,6 @@
 <!doctype html>
 
-<html>
+<html lang="en">
 
 <head>
 <link href="main.css" rel="stylesheet">
@@ -17,7 +17,7 @@
 
 <body>
 
-    <img src="Avatar-headshot.png">
+    <img src="Avatar-headshot.png" alt="avatar">
     
     <h1>Introduction</h1>    
     
