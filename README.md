@@ -13,4 +13,4 @@
 
 
 ## Notes for instructor
-N/A
+For privacy reasons, I was vague with my name and discription in my assignment because the website is posted publicly.
